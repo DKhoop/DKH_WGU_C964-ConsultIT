@@ -1,6 +1,5 @@
 anaconda-client==1.10.0
 anaconda-navigator==2.4.2
-anyio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-t_zs64wy/anyio_1644482593257/work/dist
 appdirs==1.4.4
 applaunchservices @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1fiu9w6r9i/croots/recipe/applaunchservices_1661854643906/work
 appnope @ file:///Users/ktietz/ci_310/appnope_1643965056645/work
