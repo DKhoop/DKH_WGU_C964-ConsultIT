@@ -1,5 +1,5 @@
 #versions: myenv, binderenv, myenvextras
-name: chexray
+name: dkhoop
 channels:
   - defaults
   - conda-forge
