@@ -1,5 +1,4 @@
 anaconda-client
-anaconda-navigator
 appdirs
 atomicwrites
 backports.weakref
